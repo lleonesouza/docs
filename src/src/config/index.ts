@@ -1,5 +1,5 @@
 const config = {
-    address: "http://localhost:5000/v1",
+    address: "https://dev.wivo.io/api/v1",
     local_address: "http://localhost:5000/v1"
     
 }
