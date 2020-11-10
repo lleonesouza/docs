@@ -13,6 +13,15 @@ object-assign
    License: MIT, header required.
    */
 
+/**
+ * Prism: Lightweight, robust, elegant syntax highlighting
+ *
+ * @license MIT <https://opensource.org/licenses/MIT>
+ * @author Lea Verou <https://lea.verou.me>
+ * @namespace
+ * @public
+ */
+
 /** @license React v0.0.0-experimental-94c0244ba
  * react-dom.production.min.js
  *
